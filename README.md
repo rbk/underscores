@@ -1,0 +1,1 @@
+Underscore Starter theme by Automatic. http://underscores.me/
