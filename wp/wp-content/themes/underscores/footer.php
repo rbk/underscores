@@ -14,7 +14,7 @@
 		<div class="site-info">
 			<a href="<?php echo esc_url( __( 'http://wordpress.org/', 'underscores' ) ); ?>"><?php printf( __( 'Proudly powered by %s', 'underscores' ), 'WordPress' ); ?></a>
 			<span class="sep"> | </span>
-			<?php printf( __( 'Theme: %1$s by %2$s.', 'underscores' ), 'underscores', '<a href="http://underscores.me/" rel="designer">Underscores.me</a>' ); ?>
+			<?php printf( __( 'Site by %1$s', 'underscores' ), '<a href="http://gurustu.co/" rel="designer">GuRuStu</a>' ); ?>
 		</div><!-- .site-info -->
 	</footer><!-- #colophon -->
 </div><!-- #page -->
