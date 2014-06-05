@@ -86,7 +86,7 @@ add_action( 'widgets_init', 'underscores_widgets_init' );
 function underscores_scripts() {
 	wp_enqueue_style( 'underscores-style', get_stylesheet_uri() );
 
-	wp_enqueue_style( 'underscores-sass', get_template_directory_uri() . '/css/application.css' );​
+	wp_enqueue_style( 'underscores-sass', get_template_directory_uri() . '/css/application.css' );
 
 	wp_enqueue_script( 'modernizer', get_template_directory_uri() . '/js/modernizr.2.7.1.js', array(), '20120206', true );
 
